@@ -18,9 +18,9 @@
 ## 📁 Project Structure
 
 tic-tac-toe/
-├── index.html # Main HTML structure
-├── style.css # Styling using pure CSS
-├── script.js # Game logic using JavaScript
+- index.html # Main HTML structure
+- style.css # Styling using pure CSS
+- script.js # Game logic using JavaScript
 
 
 
@@ -37,8 +37,10 @@ tic-tac-toe/
 ## 📸 Preview
 
 ![Tic-Tac-Toe Preview](public/Perview1.png)
-![Tic-Tac-Toe Preview](public/Perview2.png)
-![Tic-Tac-Toe Preview](public/Perview3.png)
+
+![Tic-Tac-Toe Preview](public/Preview2.png)
+
+![Tic-Tac-Toe Preview](public/Preview3.png)
 
 ---
 
